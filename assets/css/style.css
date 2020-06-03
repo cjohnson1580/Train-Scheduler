@@ -1,0 +1,54 @@
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #47494b;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+.jumbotron {
+      
+    background-color: orange;
+    background-size: cover;
+    /*color: orange; */
+    color: black;
+    text-shadow: 4px 1px 1px orange(80, 182, 151);
+}
+    
+
+#addTrainBtn {
+    color: black;
+    font-weight: bold;
+    background-color: orange;
+}
+
+#addTrainBtn:hover {
+        color:rgb(198, 0, 33); 
+        text-decoration:none; 
+        cursor:pointer;  
+}
+
+#dispSched {
+    font-weight: bold;
+}
+#display-header {
+    background-color: orange;
+    font-weight: bold;
+}
+
+footer {
+    height: auto;
+    color: orange;
+    font-size: 12px;
+}
+
+hr {
+    color: orange;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 15px 0;
+}
+
